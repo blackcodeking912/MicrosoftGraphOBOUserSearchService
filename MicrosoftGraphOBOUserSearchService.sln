@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicrosoftGraphOBOUserSearchService", "MicrosoftGraphOBOUserSearchService.csproj", "{4A5283BD-84E8-4B97-BEF7-66F2018C823E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A5283BD-84E8-4B97-BEF7-66F2018C823E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5283BD-84E8-4B97-BEF7-66F2018C823E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5283BD-84E8-4B97-BEF7-66F2018C823E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5283BD-84E8-4B97-BEF7-66F2018C823E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487E2D45-DC46-4836-9725-637664DD85EB}
+	EndGlobalSection
+EndGlobal
