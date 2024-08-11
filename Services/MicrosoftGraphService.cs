@@ -217,7 +217,6 @@ public class MicrosoftGraphService : IMicrosoftGraphService
                         Query = new SearchQuery
                         {
                             QueryString = $"{ searchTerm }" ?? string.Empty
-                            //QueryTemplate = "{ searchTerm } CreatedBy:Ni'Ko",
                         },
                         From = 0,
                         Size = 500 // max 500
